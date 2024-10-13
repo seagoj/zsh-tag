@@ -4,5 +4,6 @@ This plugin creates `tag` alias for search using `rg` or `ag` and select a resul
 
 ## Requirements
 
-One of [rg](https://github.com/BurntSushi/ripgrep) or [ag](https://github.com/ggreer/the_silver_searcher)
+- [tag](https://github.com/aykamko/tag)
+- One of [rg](https://github.com/BurntSushi/ripgrep) or [ag](https://github.com/ggreer/the_silver_searcher)
 
